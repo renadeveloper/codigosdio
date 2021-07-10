@@ -1,2 +1,7 @@
-# codigosdio
-Repositório que contem os códigos referentes aos Bootcamps da Digital Innovation One
+# Códigos Bootcamps - Digital Innovation One
+
+## Introdução a Programação com JavaScript
+
+- [x] Visita na Feira
+- [ ] Multiplicação Simples
+- [ ] Folha de Pafamento
