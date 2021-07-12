@@ -13,3 +13,9 @@
 - [x] Análise de Números
 - [x] Contagem de Cédulas
 - [x] Consumo Médio do Automóvel  
+  
+## Soluções Aritméticas em Python
+
+- [x] Notas da Prova
+- [x] Preenchimento de Vetor I
+- [x] Triângulo
