@@ -4,4 +4,4 @@
 
 - [x] Visita na Feira
 - [ ] Multiplicação Simples
-- [ ] Folha de Pafamento
+- [ ] Folha de Pagamento
